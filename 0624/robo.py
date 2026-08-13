@@ -1,0 +1,1 @@
+n, c, s = int(input())
